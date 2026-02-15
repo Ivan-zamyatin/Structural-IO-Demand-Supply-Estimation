@@ -58,4 +58,4 @@ Derived **Total Factor Productivity (TFP)**, denoted as $\hat{\omega}_{it}$, for
 ## 🚀 How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install pyblp pyfixest`.
-3. Run `merged.ipynb`.
+3. Run `BLP_OP.ipynb`.
